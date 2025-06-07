@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Raju Sarkar
 
-I'm passionate about building scalable and user-centric web applications that solve real-world problems.
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -14,8 +13,6 @@ I'm passionate about building scalable and user-centric web applications that so
 - [How to Start Freelancing as a Developer](https://yourbloglink.com)
 - [React Beginner Guide](https://yourbloglink.com)
 
-## ☕ Support Me
-If you think my work is helpful, consider [buying me a coffee](https://www.buymeacoffee.com/yourlink)!
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=raju-sarkar&show_icons=true&theme=tokyonight)
