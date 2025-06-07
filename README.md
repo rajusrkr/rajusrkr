@@ -9,12 +9,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
-## 📘 Recent Articles
-- [How to Start Freelancing as a Developer](https://yourbloglink.com)
-- [React Beginner Guide](https://yourbloglink.com)
+## 📘 My Recent Articles
+- [React Context API, State Sharing and Zustand]([https://yourbloglink.com](https://medium.com/@rajusarkar23/react-context-apis-state-sharing-and-zustand-use-cases-c0ae876fb6aa))
 
 
 ## 📈 GitHub Stats
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajusarkar23&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajusarkar23&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/lang?username=rajusarkar23&theme=github_dark)
