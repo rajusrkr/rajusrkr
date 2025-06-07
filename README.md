@@ -10,7 +10,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
 ## 📘 My Recent Articles
-- [React Context API, State Sharing and Zustand]([https://yourbloglink.com](https://medium.com/@rajusarkar23/react-context-apis-state-sharing-and-zustand-use-cases-c0ae876fb6aa))
+- [React Context API, State Sharing and Zustand](https://medium.com/@rajusarkar23/react-context-apis-state-sharing-and-zustand-use-cases-c0ae876fb6aa)
 
 
 ## 📈 GitHub Stats
@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajusarkar23&theme=github_dark" alt="Stats" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajusarkar23&theme=github_dark" alt="Top Languages" /></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajusarkar23&theme=github_dark" alt="Top Languages" /></td>
     </tr>
   </table>
 </p>
