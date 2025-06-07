@@ -15,6 +15,6 @@
 
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajusarkar23&show_icons=true&theme=tokyonight)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajusarkar23&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajusarkar23&layout=compact&theme=tokyonight)
