@@ -17,8 +17,8 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajusarkar23&theme=github_dark" alt="Stats" /></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajusarkar23&theme=github_dark" alt="Top Languages" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajusrkr&theme=github_dark" alt="Stats" /></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajusrkr&theme=github_dark" alt="Top Languages" /></td>
     </tr>
   </table>
 </p>
