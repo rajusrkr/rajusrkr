@@ -9,8 +9,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
-## 📘 My Recent Articles
-- [React Context API, State Sharing and Zustand](https://medium.com/@rajusarkar23/react-context-apis-state-sharing-and-zustand-use-cases-c0ae876fb6aa)
+## 📘 My recent nlogs
+- [React Context API, State Sharing and Zustand](https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6)
 
 
 ## 📈 GitHub Stats
